@@ -5,7 +5,6 @@ height: 502px;
 left: 100px;
 top: 212px;
 }
-
 h1{
     position: absolute;
 width: 158px;
@@ -23,49 +22,4 @@ line-height: 75px;
 letter-spacing: -0.015em;
 
 color: #DCDCDC;
-
-}
-.email{
-    box-sizing: border-box;
-
-position: absolute;
-width: 521px;
-height: 80px;
-left: 100px;
-top: 344px;
-
-border: 1px solid #FCF291;
-backdrop-filter: blur(200px);
-/* Note: backdrop-filter has minimal browser support */
-
-border-radius: 38px;
-}
-.pass{
-    box-sizing: border-box;
-
-position: absolute;
-width: 521px;
-height: 80px;
-left: 100px;
-top: 454px;
-
-border: 1px solid #FCF291;
-backdrop-filter: blur(200px);
-/* Note: backdrop-filter has minimal browser support */
-
-border-radius: 38px;
-}
-.submit{
-    position: absolute;
-width: 521px;
-height: 80px;
-left: 100px;
-top: 634px;
-
-background: #FFCD2D;
-backdrop-filter: blur(200px);
-/* Note: backdrop-filter has minimal browser support */
-
-border-radius: 38px;
-
 }
